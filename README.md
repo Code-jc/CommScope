@@ -1,2 +1,2 @@
 # CommScope
-CommScope scripts
+CommScope script 
